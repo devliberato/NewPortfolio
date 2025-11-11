@@ -449,7 +449,7 @@ text-align: center;
         color: var(--text-color);
     }
     .navbar.active {
-        display: block;
+        display: none;
     }
     .gradient-btn {
         display: none;
